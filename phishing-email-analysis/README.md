@@ -3,6 +3,8 @@
 ## 1. Project Overview
 This project documents my phishing email analysis learning and practice as part of my SOC Analyst development.
 
+phishing-email-analysis/Phishing Email/Screenshot (2).png
+
 ## 2. Objective
 The objective is to learn how to examine suspicious emails, identify potential phishing indicators, and document an evidence-based assessment.
 
