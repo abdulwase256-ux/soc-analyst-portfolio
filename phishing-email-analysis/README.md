@@ -1,3 +1,7 @@
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/145b5eb1-8743-4357-84af-4452d213f0d0" />
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a6f960b1-4d5d-4142-8354-43d275557671" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/8b269dee-af7f-4c55-bd3c-6c81d15eaaca" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/b810ee38-d844-4431-abe3-42772a5d0c7a" />
 # Phishing Email Analysis and Investigation
 
 ## 1. Project Overview
